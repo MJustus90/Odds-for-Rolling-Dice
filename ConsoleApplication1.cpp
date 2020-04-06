@@ -3,7 +3,9 @@
 #include <cstdlib>
 
 using namespace std;
+// This function takes in an integer, the number you want to roll, and a double, the total number of rolls you are using to estimate. 
 double DiceOdds(int, double);
+
 
 int main()
 {
